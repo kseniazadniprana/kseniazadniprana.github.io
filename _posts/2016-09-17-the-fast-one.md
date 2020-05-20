@@ -1,8 +1,13 @@
 ---
-layout: post
 title: The Fast One (v5)
-description: >
-  Hydejack v5 dramatically increases page load speed which matters to Google and visitors with slow connections alike.
+date: 2016-09-17 00:00:00 Z
+categories:
+- hydejack
+layout: post
+description: 'Hydejack v5 dramatically increases page load speed which matters to
+  Google and visitors with slow connections alike.
+
+'
 ---
 
 This major release increases page load speed dramatically.

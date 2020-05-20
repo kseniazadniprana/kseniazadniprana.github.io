@@ -1,8 +1,12 @@
 ---
-layout: post
 title: Third Party Scripts (v6.3)
-description: >
-  Hydejack v6.3 makes including third party plugins easier.
+date: 2017-06-06 00:00:00 Z
+categories:
+- hydejack
+layout: post
+description: 'Hydejack v6.3 makes including third party plugins easier.
+
+'
 ---
 
 This release makes including third party plugins easier.

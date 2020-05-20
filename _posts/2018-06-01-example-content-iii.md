@@ -1,9 +1,13 @@
 ---
-layout: post
 title: Example Content III
-description: >
-  A page showing Hydejack-specific markdown content.
-image: /assets/img/blog/example-content-iii.jpg
+date: 2018-06-01 00:00:00 Z
+categories:
+- hydejack
+layout: post
+description: 'A page showing Hydejack-specific markdown content.
+
+'
+image: "/assets/img/blog/example-content-iii.jpg"
 ---
 
 Hydejack offers a few additional features to markup your markdown.

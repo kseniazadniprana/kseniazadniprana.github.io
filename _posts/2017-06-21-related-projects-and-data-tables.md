@@ -1,9 +1,14 @@
 ---
-layout: post
 title: Related Projects and Data Tables (v6.4)
-description: >
-  In Hydejack v6.4 I've added a "Other Projects" section to the bottom of each project page,
-  making it easier for users to navigate through your collection and discover other projects.
+date: 2017-06-21 00:00:00 Z
+categories:
+- hydejack
+layout: post
+description: 'In Hydejack v6.4 I''ve added a "Other Projects" section to the bottom
+  of each project page, making it easier for users to navigate through your collection
+  and discover other projects.
+
+'
 ---
 
 In this release I've added a "Other Projects" section to the bottom of each project page,

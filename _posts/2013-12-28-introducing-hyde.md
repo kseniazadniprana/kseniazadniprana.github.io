@@ -1,8 +1,13 @@
 ---
-layout: post
 title: Introducing Hyde
-description: >
-  Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content.
+date: 2013-12-28 00:00:00 Z
+categories:
+- hyde
+layout: post
+description: 'Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that
+  pairs a prominent sidebar with uncomplicated content.
+
+'
 author: author2
 noindex: true
 ---

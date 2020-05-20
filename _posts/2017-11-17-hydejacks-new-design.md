@@ -1,9 +1,14 @@
 ---
-layout: post
 title: Hydejack's New Design
-description: >
-  This post introduces Hydejack's now background image, color palette and logo.
-image: /assets/img/blog/caleb-george.jpg
+date: 2017-11-17 00:00:00 Z
+categories:
+- hydejack
+layout: post
+description: 'This post introduces Hydejack''s now background image, color palette
+  and logo.
+
+'
+image: "/assets/img/blog/caleb-george.jpg"
 hide_image: true
 ---
 
