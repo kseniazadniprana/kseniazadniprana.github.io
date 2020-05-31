@@ -1,6 +1,5 @@
 ---
-title: Hydejack
-layout: list
+title: Заднипряна Ксения
 menu: true
 order: 1
 description: 'Hydejack is a pretentious two-column [Jekyll](http://jekyllrb.com/)
@@ -9,5 +8,7 @@ description: 'Hydejack is a pretentious two-column [Jekyll](http://jekyllrb.com/
   Open `_featured_tags/hydejack.md` to edit this text.
 
 '
+layout: list
 ---
 
+Творчество - то, как мы себя выражаем. Хороший наставник - пример для других.
