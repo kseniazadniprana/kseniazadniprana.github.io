@@ -1,5 +1,5 @@
 ---
-title: Hydejack
+title: kseniazadniprana
 timezone: UTC
 collections:
   featured_categories:
@@ -47,16 +47,10 @@ defaults:
     seo:
       type: WebPage
 url: https://domain.tld
-baseurl: ''
+baseurl: 
 lang: en
-description: '"Best Jekyll Theme by a Mile". **Hydejack** is your presence on the
-  web, featuring a blog, portfolio, and resume.
-
-'
-tagline: '"Best Jekyll Theme by a Mile". Open `_config.yml` to edit this text.
-
-'
-keywords: []
+description: "\n"
+tagline: 
 logo: "/assets/icons/icon.png"
 author:
   name: "<firstname> <lastname>"
